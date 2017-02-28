@@ -63,6 +63,12 @@ table, th, td {
 	width: 10%;
 }
 
+.photo{width:80%;}
+.coll { width:20%;}
+.col2 { width:15%;}
+.col3 { width:50%;}
+.col4 { width;15%;}
+
 #foot {
 	background-color: green;
 	width: 100%;
