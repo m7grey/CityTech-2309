@@ -61,12 +61,12 @@ p {
 	text-align: center;
 }
 
-hl {
+h1 {
 	text-align: center;
 }
 
 table, th, td {
-	border: lpx solid;
+	border: 1px solid;
 }
 
 . table {
